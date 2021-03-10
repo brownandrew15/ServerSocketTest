@@ -1,6 +1,5 @@
 import java.io.*;
 import java.net.*;
-import java.util.Date;
 
 /*
 A simple Java TCP server using the ServerSocket class

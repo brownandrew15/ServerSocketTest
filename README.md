@@ -7,6 +7,8 @@ The server uses the ServerSocket class and the client uses the Socket class.
 ### How to use
 1. Run ```$ java Server```
 2. Run ```$ java Client <IP Address> <Port>```
+3. The server will return the message that is entered into the client
+4. To end the program, type ```END``` as the message in the client
 
 The port is hard coded to 43125 in Server.java
 
